@@ -1,0 +1,6 @@
+{
+  "name": "Y-SEO Studio",
+  "description": "YouTube Content Creator Studio with SEO tools, tag extractor, AI generators, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
